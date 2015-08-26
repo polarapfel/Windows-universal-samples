@@ -116,6 +116,9 @@
     <Compile Include="Scenario13_RetryFilter.xaml.cs">
       <DependentUpon>Scenario13_RetryFilter.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Scenario14_HttpDigest.xaml.cs">
+      <DependentUpon>Scenario14_HttpDigest.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Scenario1_GetText.xaml.cs">
       <DependentUpon>Scenario1_GetText.xaml</DependentUpon>
     </Compile>
@@ -174,6 +177,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Scenario13_RetryFilter.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Scenario14_HttpDigest.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>

@@ -35,6 +35,7 @@ namespace SDKTemplate
             new Scenario() { Title = "Delete Cookie", ClassType = typeof(Scenario11) },
             new Scenario() { Title = "Metered Connection Filter", ClassType = typeof(Scenario12) },
             new Scenario() { Title = "Retry Filter", ClassType = typeof(Scenario13) },
+            new Scenario() { Title = "HTTP Digest Authentication", ClassType = typeof(Scenario14) },
         };
     }
 

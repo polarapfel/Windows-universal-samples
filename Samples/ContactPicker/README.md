@@ -1,5 +1,6 @@
-﻿<!---
+<!---
   category: ContactsAndCalendar
+  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=624041&clcid=0x409
 --->
 
 # Contact picker sample
@@ -17,7 +18,7 @@ The sample demonstrates the following tasks:
 
 **Note** The Windows universal samples require Visual Studio 2015 to build and Windows 10 to execute.
  
-To obtain information about Windows 10, go to [Windows 10](http://go.microsoft.com/fwlink/?LinkID=532421)
+To obtain information about Windows 10 development, go to the [Windows Dev Center](https://dev.windows.com)
 
 To obtain information about Microsoft Visual Studio 2015 and the tools for developing Windows apps, go to [Visual Studio 2015](http://go.microsoft.com/fwlink/?LinkID=532422)
 
@@ -31,9 +32,9 @@ To obtain information about Microsoft Visual Studio 2015 and the tools for devel
 
 [ApplicationView class](https://msdn.microsoft.com/en-us/library/windows/apps/windows.ui.viewmanagement.applicationview.aspx)
 
-[Managing user contacts (XAML)](http://msdn.microsoft.com/library/windows/apps/hh464950)
+### Conceptual
 
-[Managing user contacts (HTML)](http://msdn.microsoft.com/library/windows/apps/hh464939)
+[Contacts and calendar](https://msdn.microsoft.com/library/windows/apps/mt269388)
 
 ## System requirements
 

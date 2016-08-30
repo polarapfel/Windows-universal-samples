@@ -33,9 +33,14 @@ namespace SDKTemplate
             new Scenario() { Title = "Get Cookies", ClassType = typeof(Scenario9) },
             new Scenario() { Title = "Set Cookie", ClassType = typeof(Scenario10) },
             new Scenario() { Title = "Delete Cookie", ClassType = typeof(Scenario11) },
-            new Scenario() { Title = "Metered Connection Filter", ClassType = typeof(Scenario12) },
+            new Scenario() { Title = "Disable Cookies", ClassType = typeof(Scenario12) },
             new Scenario() { Title = "Retry Filter", ClassType = typeof(Scenario13) },
+<<<<<<< HEAD
             new Scenario() { Title = "HTTP Digest Authentication", ClassType = typeof(Scenario14) },
+=======
+            new Scenario() { Title = "Metered Connection Filter", ClassType = typeof(Scenario14) },
+            new Scenario() { Title = "Server Certificate Validation", ClassType = typeof(Scenario15) },
+>>>>>>> refs/remotes/Microsoft/master
         };
     }
 

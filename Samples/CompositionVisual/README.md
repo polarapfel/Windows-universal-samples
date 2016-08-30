@@ -1,6 +1,6 @@
 <!---
   category: GraphicsAndAnimation
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620483&clcid=0x409
+  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620483
 --->
 
 # Composition visual without framework sample
@@ -27,7 +27,7 @@ The sample demonstrates the following:
 **Note** The Universal Windows app samples require Visual Studio 2015 to build and Windows 10 to execute.
 (See additional discussion below under **Prerequisites**.)
 
-To obtain information about Windows 10 development, go to the [Windows Dev Center](https://dev.windows.com).
+To obtain information about Windows 10 development, go to the [Windows Dev Center](http://go.microsoft.com/fwlink/?LinkID=532421).
 
 To obtain information about Microsoft Visual Studio 2015 and the tools for developing Windows apps, go to [Visual Studio 2015](http://go.microsoft.com/fwlink/?LinkID=532422).
 

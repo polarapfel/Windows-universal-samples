@@ -1,6 +1,6 @@
 <!---
   category: GlobalizationAndLocalization
-  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620612&clcid=0x409
+  samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=620612
 --->
 
 # Text suggestions sample
@@ -12,6 +12,12 @@ This sample shows how to get text suggestion(including Conversion, Prediction, R
 **Reference**
 
 [**Windows.Data.Text**](http://msdn.microsoft.com/library/windows/apps/dn263535)
+
+[**TextConversionGenerator** class](http://msdn.microsoft.com/library/windows/apps/xaml/windows.data.text.textconversiongenerator.aspx)
+
+[**TextPredictionGenerator** class](http://msdn.microsoft.com/library/windows/apps/xaml/windows.data.text.textpredictiongenerator.aspx)
+
+[**TextReverseConversionGenerator** class](http://msdn.microsoft.com/library/windows/apps/xaml/windows.data.text.textreverseconversiongenerator.aspx)
 
 ## Operating system requirements
 
